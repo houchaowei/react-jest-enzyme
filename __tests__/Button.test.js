@@ -7,7 +7,6 @@ Enzyme.configure({ adapter: new Adapter() });
 
 describe("Button: ", () => {
   let props, wrapper;
-
   beforeEach(() => {
     // ...
     props = {

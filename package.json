@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "react-unit-test",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "react-jest-enzyme to do test",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "enzyme": "3.11.0",
