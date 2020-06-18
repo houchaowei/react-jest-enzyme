@@ -1,0 +1,12 @@
+.empty-view-wrapper {
+  text-align: center;
+}
+
+.text-content {
+  font-size: 16px;
+  font-family: PingFangSC;
+  font-weight: 500;
+  color: #dedede;
+  line-height: 22px;
+  letter-spacing: 1px;
+}
